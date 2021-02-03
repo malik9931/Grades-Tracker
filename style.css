@@ -1,0 +1,103 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px ;
+    background-color: #0f1123;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 270%;
+    text-align: center;
+
+}
+
+
+body{
+    width: 960px;;
+    background-image: url("https://image.freepik.com/free-vector/back-school-background-style_23-2148593950.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    
+
+}
+
+tr,th,td{
+    border: black 2px solid;
+    text-align: center;
+    color: white;
+
+}
+
+th {
+    background-color: #383f38;
+    color: white;
+    
+}
+
+td{
+    background-color: #454645;
+}
+
+form{
+    background-color: rgb(122, 114, 223);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 500px;
+    margin: 20px;
+    color: white;
+    /* display: inline-block; */
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    float: left;
+
+}
+
+input {
+    width: 50%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+  }
+
+select{
+    width: 50%;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+  }
+  
+#submit{
+    margin-top: 20px;
+    width: 100px;
+}
+#tableContainer{
+    background-color: rgb(122, 114, 223);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 500px;
+    /* display: inline-block; */
+    float: right;
+
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+
+    /* background-color: rgb(163, 113, 163); */
+    /* padding: 110px; */
+}
